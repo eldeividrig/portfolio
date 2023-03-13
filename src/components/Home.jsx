@@ -9,7 +9,7 @@ const Home = () =>{
             className="flex h-screen w-full bg-gradient-to-b from-black via-black to-gray-50">
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-2 md:flex-row sm:mb-11">
                 <div className="flex flex-col justify-center h-full sm:pt-20 ">
-                    <h2 className="text-4xl sm:text-7xl font-bold text-white sm:mt-6">
+                    <h2 className="text-4xl sm:text-4xl font-bold text-white sm:mt-6">
                         Computer Engineer - Full Stack Developer
                     </h2>
                     <p className="text-white py-4 max-w-md">
