@@ -26,8 +26,8 @@ const Home = () =>{
                         </Link>
                     </div>
                 </div>
-                <div className="md:mt-14">
-                    <img src={imgPerfil} alt=""  className=" rounded-2xl mx-auto w-2/3  md:w-full"/>
+                <div className="md:mt-10">
+                    <img src={imgPerfil} alt=""  className=" rounded-2xl mx-auto w-2/3 md:w-full"/>
                 </div>
             </div>
         </div> 

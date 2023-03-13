@@ -9,7 +9,7 @@ const About = () =>{
                     </p>
                 </div>
                 <p className="text-xl sm:mt-10">
-                    Mi nombre es Dario Andres Balmaceda, tengo 29 años y soy oriundo de la ciudad de Posadas, provincia de Misiones. Actualmente soy alumno de Henry y estoy en la etapa final del bootcamp Full-Stack PERN. Gracias a mi formación, considero que puedo aportar valor y seguir desarrollándome profesionalmente.
+                    Mi nombre es David Gabriel Barboza, tengo 37 años y soy oriundo de la ciudad de Posadas, provincia de Misiones. Actualmente soy alumno de Henry y estoy en la etapa final del bootcamp Full-Stack PERN. Gracias a mi formación, considero que puedo aportar valor y seguir desarrollándome profesionalmente.
                 </p>
                 <br />
                 <p className="text-xl sm:mt-10">
